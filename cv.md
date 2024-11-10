@@ -1,15 +1,16 @@
 ---
 layout: single
 author_profile: true
-permalink: /cv/
-title: Resume
+permalink: /Reza/
+title: Reaz
 tags: [resume, cv]
 modified: 4-14-2019
 comments: false
 ---
 
 
-# ekhteshash
+# Reza
+hello im reaz
 
 werwe
 rwe
