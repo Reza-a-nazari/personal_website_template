@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "خاطره"
+    url: /خاطره/
   - title: "game"
     url: /game/
   - title: "Reza"
