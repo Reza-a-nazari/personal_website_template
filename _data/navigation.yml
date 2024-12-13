@@ -1,9 +1,13 @@
 # main links
 main:
+  - title: "خاطره"
+    url: /خاطره/
   - title: "game"
     url: /game/
   - title: "Reza"
     url: /Reza/
+  - title: "Courses"
+    url: /courses/
   - title: "Friends"
     url: /friends/
   - title: "Links"
