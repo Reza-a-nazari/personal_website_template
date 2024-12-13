@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+
+* [Places I want to visit](https://www.tripadvisor.com/Attractions-g295424-Activities-Dubai_Emirate_of_Dubai.html)
+* [My home city](https://my.tehran.ir)
+* [My university](https://www.iust.ac.ir)
 
