@@ -38,7 +38,8 @@ comments: false
  خاطراتی خوش با گوردون فریمن .
 
 
- ![hl1](./assets/images/half%20-%20life.jpg) <img src="./assets/images/black-messa.webp" width="350" />
+
+  <img src="./assets/images/black-messa.webp" width="350" />
 
 
 # موسیقی بازی که حتما باید گوش کنید
