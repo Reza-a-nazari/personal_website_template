@@ -38,8 +38,7 @@ comments: false
  خاطراتی خوش با گوردون فریمن .
 
 
-
-  <img src="./assets/images/black-messa.webp" width="350" />
+ ![hl1](./assets/images/black-messa.webp)
 
 
 # موسیقی بازی که حتما باید گوش کنید
