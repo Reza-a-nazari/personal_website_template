@@ -10,7 +10,7 @@ comments: false
 
 
 
-* [Places I want to visit](https://www.tripadvisor.com/Attractions-g295424-Activities-Dubai_Emirate_of_Dubai.html)
-* [My home city](https://my.tehran.ir)
-* [My university](https://www.iust.ac.ir)
+* [مکان هایی که دوست دارم بازدید کنم](https://www.tripadvisor.com/Attractions-g295424-Activities-Dubai_Emirate_of_Dubai.html)
+* [شهر من](https://my.tehran.ir)
+* [دانشگاه من](https://www.iust.ac.ir)
 
